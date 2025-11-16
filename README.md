@@ -19,7 +19,7 @@ Check out my work and portfolio here: [https://portfolio.rith.codes/](https://po
 ---
 
 ## ⚡ Skills
-- **Programming:** Java, Python C#, PHP, JavaScript  
+- **Programming:** Java, Python, C#, PHP, JavaScript  
 - **Web & Frameworks:** Spring Boot, Django, React, HTML/CSS, Bootstrap  
 - **Tools & Platforms:** Git/GitHub, Docker, VS Code, Codespaces, Linux
 - **AI Technologies:** GenAI, MCP, Agent
