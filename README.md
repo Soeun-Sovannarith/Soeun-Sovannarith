@@ -3,7 +3,7 @@
 👋 **Hey, I’m Rith**  
 I’m a builder at heart — I turn ideas into working systems that solve real problems. From automation tools for small businesses to full-stack platforms built from scratch, I focus on creating software that is **simple, fast, and genuinely useful**.
 
-I study **English + Computer Science**, so I care a lot about clarity. I break down complex concepts, design clean architectures, and build things people can actually rely on.
+I am an **English + Information Technology** major, so I care a lot about clarity. I break down complex concepts, design clean architectures, and build things people can actually rely on.
 
 ### 🚀 What I Do
 - **Backend:** Spring Boot, Django, .NET  
