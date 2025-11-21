@@ -11,38 +11,14 @@ I am an **English + Information Technology** major, so I care a lot about clarit
 - **Mobile:** Android (Java)  
 - **Databases:** PostgreSQL, MySQL, MSSQL (Docker)  
 - **Automation:** n8n, MCP, custom AI chatbots  
-- **Deployment:** Docker, Render, Vercel, Railway  
-
-### 💡 What I’m Building  
-I focus on **automation, dashboards, AI assistants, and business systems**.  
-If something can be automated or optimized — I’ll make it happen.
-
-### 🧠 What Drives Me  
-I don’t chase complexity.  
-I build with **clarity, structure, and long-term maintainability** in mind.
+- **Deployment:** Docker, Render, Vercel, Railway
 
 My goal: ship real solutions that deliver real value.
 
-### 📈 Current Focus  
-- Full-stack apps with **React + Spring Boot**  
-- AI-driven automation using **MCP**  
-- Clean backend architectures  
-- Performance, security, scalability  
-
-### 🛠️ Featured Strengths  
-- Turning ideas into **real, working products**  
-- Rapid prototyping with solid structure  
-- Making technical concepts simple  
-- Delivering business-ready solutions  
+---
 
 ### 🤝 Let’s Connect  
 If you're building something interesting — I’m always open to chat or collaborate.
-
----
-
-## 🌱 Currently Learning
-- Spring Boot 🖥️  
-- AI tools for productivity & language learning 🤖  
 
 ---
 
