@@ -6,12 +6,11 @@ I’m a builder at heart — I turn ideas into working systems that solve real p
 I am an **English + Information Technology** major, so I care a lot about clarity. I break down complex concepts, design clean architectures, and build things people can actually rely on.
 
 ### 🚀 What I Do
-- **Backend:** Spring Boot, Django, .NET  
+- **Backend:** Spring Boot 
 - **Frontend:** React, Tailwind  
-- **Mobile:** Android (Java)  
-- **Databases:** PostgreSQL, MySQL, MSSQL (Docker)  
-- **Automation:** n8n, MCP, custom AI chatbots  
-- **Deployment:** Docker, Render, Vercel, Railway
+- **Databases:** PostgreSQL, MySQL
+- **DevOps:** Docker, GitHub Action, Jenkins, Terraform
+- **Cloud:** Digital Ocean, GCP, Azure
 
 My goal: ship real solutions that deliver real value.
 
