@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif">
+  <style>
+    .card{fill:#0B0F1A;stroke-width:1.5}
+    .t{fill:#F1F5F9;font-size:17px;font-weight:700}
+    .s{fill:#94A3B8;font-size:12px}
+    .e{font-size:28px}
+    .c{opacity:0;animation:up .8s cubic-bezier(.2,.8,.2,1) forwards}
+    .c2{animation-delay:.25s}.c3{animation-delay:.5s}
+    .glow{animation:pulse 3s ease-in-out infinite}
+    @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes pulse{0%,100%{stroke-opacity:.35}50%{stroke-opacity:1}}
+  </style>
+  <g class="c"><rect class="card glow" x="4" y="10" width="264" height="100" rx="16" stroke="#A78BFA"/>
+    <text class="e" x="24" y="70">🧠</text><text class="t" x="68" y="56">AI Engineering</text><text class="s" x="68" y="78">Local LLMs · RAG · Ollama</text></g>
+  <g class="c c2"><rect class="card glow" x="288" y="10" width="264" height="100" rx="16" stroke="#34D399" style="animation-delay:1s"/>
+    <text class="e" x="308" y="70">⚙️</text><text class="t" x="352" y="56">Spring Microservices</text><text class="s" x="352" y="78">Kafka · Keycloak · K8s</text></g>
+  <g class="c c3"><rect class="card glow" x="572" y="10" width="264" height="100" rx="16" stroke="#22D3EE" style="animation-delay:2s"/>
+    <text class="e" x="592" y="70">📱</text><text class="t" x="636" y="56">iOS · SwiftUI</text><text class="s" x="636" y="78">SwiftData · Combine · MVVM</text></g>
+</svg>
