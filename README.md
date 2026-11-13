@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7C3AED,50:4F46E5,100:06B6D4&text=Soeun%20Sovannarith&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Spring%20Microservices%20%C2%B7%20SwiftUI%20Developer&descAlignY=58&descSize=18&reversal=false" width="100%" alt="header" />
+<img src="./assets/hero.svg" width="100%" alt="Soeun Sovannarith — AI Engineer · Spring Microservices · IOS Developer" />
 
 <a href="https://github.com/Soeun-Sovannarith">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=60&lines=Hey%2C+I'm+Rith+%F0%9F%91%8B;Building+AI+that+runs+on+your+own+machine+%F0%9F%A7%A0;Local+LLMs+%C2%B7+RAG+%C2%B7+Ollama+%C2%B7+llama.cpp;Designing+Spring+Boot+microservices+that+scale+%E2%9A%99%EF%B8%8F;Crafting+smooth+iOS+apps+with+SwiftUI+%F0%9F%93%B1;Ship+real+solutions+that+deliver+real+value+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=F0ABFC&center=true&vCenter=true&width=760&height=60&lines=Building+AI+that+runs+on+your+own+machine+%F0%9F%A7%A0;Local+LLMs+%C2%B7+RAG+%C2%B7+Ollama+%C2%B7+llama.cpp;Designing+Spring+Boot+microservices+that+scale+%E2%9A%99%EF%B8%8F;Crafting+smooth+iOS+apps+with+SwiftUI+%F0%9F%93%B1;Ship+real+solutions+that+deliver+real+value+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Soeun-Sovannarith&label=Profile+views&style=for-the-badge&color=7C3AED" alt="views" />
-<img src="https://img.shields.io/badge/Phnom_Penh-Cambodia-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
-<img src="https://img.shields.io/badge/Open_to-Collaborate-10B981?style=for-the-badge&logo=handshake&logoColor=white" alt="open" />
+<img src="https://komarev.com/ghpvc/?username=Soeun-Sovannarith&label=PROFILE+VIEWS&style=for-the-badge&color=8B5CF6&labelColor=0A0A12" alt="views" />
+<img src="https://img.shields.io/badge/Phnom_Penh-Cambodia-22D3EE?style=for-the-badge&labelColor=0A0A12&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://img.shields.io/badge/Open_to-Collaborate-EC4899?style=for-the-badge&labelColor=0A0A12&logo=handshake&logoColor=white" alt="open" />
 
 </div>
 
@@ -22,22 +22,9 @@ I'm a **builder at heart**: I turn ideas into working systems that solve real pr
 
 As an **English + Information Technology** major, I care a lot about clarity. I break down complex concepts, design clean architectures, and build things people can actually rely on.
 
-```swift
-struct Rith: Developer {
-    let focus: [String] = [
-        "🧠 AI Engineering: Local LLM",
-        "⚙️ Spring Microservices",
-        "📱 iOS Development: SwiftUI"
-    ]
-
-    var currentlyExploring = ["On-device inference", "RAG pipelines", "Event-driven architecture"]
-    var mission = "Ship real solutions that deliver real value."
-
-    func collaborate() -> String {
-        "If you're building something interesting, let's talk ☕"
-    }
-}
-```
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="struct Rith: Developer — focus: AI Engineering, Spring Microservices, SwiftUI. Mission: ship real solutions that deliver real value." />
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
@@ -99,8 +86,8 @@ flowchart LR
     C --> D[🧠 Local LLM<br/>Ollama]
     D --> E[⚙️ Spring Boot<br/>Microservices]
     E --> F[📱 SwiftUI App]
-    style D fill:#7C3AED,stroke:#C4B5FD,color:#fff
-    style E fill:#4F46E5,stroke:#A5B4FC,color:#fff
+    style D fill:#8B5CF6,stroke:#C4B5FD,color:#fff
+    style E fill:#DB2777,stroke:#F9A8D4,color:#fff
     style F fill:#0891B2,stroke:#67E8F9,color:#fff
 ```
 
@@ -135,7 +122,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://portfolio.rith.codes/">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Visit_My_Portfolio-portfolio.rith.codes-7C3AED?style=for-the-badge&labelColor=0B0F1A" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Visit_My_Portfolio-portfolio.rith.codes-8B5CF6?style=for-the-badge&labelColor=0A0A12" alt="Portfolio" />
 </a>
 
 Web apps, automation systems, dashboards, and AI experiments.
@@ -148,13 +135,13 @@ Web apps, automation systems, dashboards, and AI experiments.
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soeun-Sovannarith&theme=tokyonight" alt="profile-details" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soeun-Sovannarith&theme=tokyonight" alt="most-commit-language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soeun-Sovannarith&theme=tokyonight" alt="repos-per-language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soeun-Sovannarith&theme=radical" alt="profile-details" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soeun-Sovannarith&theme=radical" alt="most-commit-language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soeun-Sovannarith&theme=radical" alt="repos-per-language" />
 
-<img src="https://streak-stats.demolab.com?user=Soeun-Sovannarith&hide_border=true&border_radius=16&background=0B0F1A&ring=A78BFA&fire=22D3EE&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Soeun-Sovannarith&hide_border=true&border_radius=16&background=0A0A12&ring=8B5CF6&fire=EC4899&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=F0ABFC&sideLabels=94A3B8&dates=64748B&stroke=1E1B4B" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soeun-Sovannarith&bg_color=0B0F1A&color=94A3B8&line=A78BFA&point=22D3EE&area=true&area_color=7C3AED&title_color=F1F5F9&hide_border=true&radius=16" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soeun-Sovannarith&bg_color=0A0A12&color=94A3B8&line=EC4899&point=22D3EE&area=true&area_color=8B5CF6&title_color=F1F5F9&hide_border=true&radius=16" width="100%" alt="activity graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soeun-Sovannarith/Soeun-Sovannarith/output/snake-dark.svg" />
@@ -176,6 +163,6 @@ If you're building something interesting, I'm always open to chat or collaborate
 <a href="https://www.linkedin.com/in/soeun-sovannarith-116958291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:soeunsovannarith64@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06B6D4,50:4F46E5,100:7C3AED&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22D3EE,50:EC4899,100:8B5CF6&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
